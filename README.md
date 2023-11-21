@@ -1,4 +1,4 @@
-# animated_headphones_products_ui
+# Animated_headphones_ui
 
 A new Flutter project.
 
