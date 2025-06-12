@@ -1,4 +1,4 @@
-# Animated headphones ui
+# Animated headphones Ui
 
 A new Flutter project.
 
