@@ -73,22 +73,6 @@ flutter run
 
 Make sure Flutter SDK is installed and configured properly.
 
----
-
-## 📈 SEO Keywords (Add to GitHub Topics)
-
-* Flutter Animated UI
-* Flutter Music App UI
-* Headphones UI Flutter
-* Flutter Animation Example
-* Flutter UI Design Project
-* Dart Mobile UI
-* Flutter Product Showcase App
-* Mobile UI Animation Flutter
-* Flutter Frontend Project
-* Flutter Portfolio UI
-
----
 
 ## 🤝 Contributing
 
